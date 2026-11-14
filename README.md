@@ -416,3 +416,19 @@ Anushree Paul
 5. Matplotlib Documentation: https://matplotlib.org/
 6. Seaborn Documentation: https://seaborn.pydata.org/
 7. Streamlit Documentation: https://docs.streamlit.io/
+
+   ---
+
+## 22. Application Screenshots
+
+### Home Page and Applicant Information
+
+![Loan Approval App Homepage](Screenshot%20(666).png)
+
+### Loan Application Input Form
+
+![Loan Application Form](Screenshot%20(667).png)
+
+### Prediction Result
+
+![Loan Approval Prediction Result](Screenshot%20(668).png)
